@@ -1,2 +1,0 @@
-[  561.396933] Hello, world 2
-[  579.929735] Goodbye, world 2
